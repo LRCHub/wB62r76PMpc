@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Life Will Change",
+  "base_artist": "初音ミク、鏡音リン、鏡音レン",
+  "createdAt": "2026-02-25T14:12:52.879910Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Life Will Change (From \"Persona 5\")",
+      "artist": "Shoji Meguro feat. daigoro789",
+      "has_synced": true,
+      "path": "select/01_Life_Will_Change_(From__Persona_5_)_Shoji_Meguro_feat._daigoro789.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Life Will Change",
+      "artist": "Shoji Meguro & Lyn",
+      "has_synced": true,
+      "path": "select/02_Life_Will_Change_Shoji_Meguro_&_Lyn.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Life Will Change",
+      "artist": "Lyn",
+      "has_synced": true,
+      "path": "select/03_Life_Will_Change_Lyn.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Life Will Change",
+      "artist": "LYn",
+      "has_synced": true,
+      "path": "select/04_Life_Will_Change_LYn.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Life Will Change - Queen Side (from \"Persona 5\") - Metal Version",
+      "artist": "FamilyJules feat. Lollia",
+      "has_synced": false,
+      "path": "select/05_Life_Will_Change_-_Queen_Side_(from__Persona_5_)_-_Metal_Version_FamilyJules_feat._Lollia.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Life Will Change - Queen Side (from \"Persona 5\")",
+      "artist": "FamilyJules7x feat. Lollia",
+      "has_synced": false,
+      "path": "select/06_Life_Will_Change_-_Queen_Side_(from__Persona_5_)_FamilyJules7x_feat._Lollia.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Life Will Change",
+      "artist": "Shoji Meguro",
+      "has_synced": true,
+      "path": "select/07_Life_Will_Change_Shoji_Meguro.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Life Will Change",
+      "artist": "Lyn",
+      "has_synced": true,
+      "path": "select/08_Life_Will_Change_Lyn.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Life Will Change - P5D-EDIT",
+      "artist": "Lyn",
+      "has_synced": false,
+      "path": "select/09_Life_Will_Change_-_P5D-EDIT_Lyn.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Life Will Change (P5D-EDIT)",
+      "artist": "Lyn",
+      "has_synced": false,
+      "path": "select/10_Life_Will_Change_(P5D-EDIT)_Lyn.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Life Will Change - ATLUS Meguro Remix",
+      "artist": "Lyn feat. ATLUS Meguro",
+      "has_synced": false,
+      "path": "select/11_Life_Will_Change_-_ATLUS_Meguro_Remix_Lyn_feat._ATLUS_Meguro.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Life Will Change ATLUS Meguro Remix",
+      "artist": "Lyn",
+      "has_synced": false,
+      "path": "select/12_Life_Will_Change_ATLUS_Meguro_Remix_Lyn.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Life Will Change",
+      "artist": "Lyn Inaizumi",
+      "has_synced": true,
+      "path": "select/13_Life_Will_Change_Lyn_Inaizumi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Life Will Change - ATLUS Meguro Remix",
+      "artist": "ATLUS Meguro",
+      "has_synced": false,
+      "path": "select/14_Life_Will_Change_-_ATLUS_Meguro_Remix_ATLUS_Meguro.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Life Will Change (From \"Persona 5\")",
+      "artist": "Man on the Internet feat. Juno Songs, Emily Go VO, Darby Cupit, Chris Curasi, Queen Creeps & Tex",
+      "has_synced": false,
+      "path": "select/15_Life_Will_Change_(From__Persona_5_)_Man_on_the_Internet_feat._Juno_Songs,_Emily_Go_VO,_Darby_Cupit,_Chris_Curasi,_Qu.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Life Will Change (Persona 5)",
+      "artist": "AmaLee",
+      "has_synced": false,
+      "path": "select/16_Life_Will_Change_(Persona_5)_AmaLee.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Life Will Change",
+      "artist": "初音ミク、鏡音リン、鏡音レン",
+      "has_synced": false,
+      "path": "select/pl_01_Life_Will_Change_初音ミク、鏡音リン、鏡音レン.txt"
+    }
+  ]
+}
